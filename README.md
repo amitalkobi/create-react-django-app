@@ -77,3 +77,14 @@ $ python manage.py runserver
 
 > **Note**
 > If you add customers at localhost:8000/customer/create, you should see the customer information shown on the frontend at localhost:3000
+
+## Contributing
+
+If you use this template for your own project, feel free to open an issue or pull request with improvements to documentation, tooling, or starter features.
+
+### Suggested pull request checklist
+
+- Update docs (README and inline comments) when behavior changes.
+- Include clear setup/reproduction steps in the PR description.
+- Run client and server locally before requesting review.
+
